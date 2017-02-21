@@ -1,0 +1,1705 @@
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 06-JUL-2016 16:23:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 06-JUL-2016 16:24:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 06-JUL-2016 16:25:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 06-JUL-2016 16:26:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 06-JUL-2016 16:27:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 06-JUL-2016 16:28:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 06-JUL-2016 16:29:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12528, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 06-JUL-2016 16:30:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12528, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 07-JUL-2016 08:15:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12537, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 08-JUL-2016 09:22:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12537
+    TNS-12537: TNS:connection closed
+    ns secondary err code: 12560
+    nt main err code: 507
+    TNS-00507: Connection closed
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 08-JUL-2016 09:23:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 08-JUL-2016 09:24:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 08-JUL-2016 09:25:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 08-JUL-2016 09:26:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 08-JUL-2016 09:27:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 08-JUL-2016 09:28:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 08-JUL-2016 09:29:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 08-JUL-2016 09:30:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 08-JUL-2016 09:32:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 113
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 08-JUL-2016 09:32:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 110
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 08-JUL-2016 09:33:19
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 113
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 08-JUL-2016 09:34:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 08-JUL-2016 09:35:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 08-JUL-2016 09:36:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 08-JUL-2016 09:37:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 08-JUL-2016 09:38:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 08-JUL-2016 09:39:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 08-JUL-2016 09:40:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 08-JUL-2016 09:41:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 08-JUL-2016 09:42:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 08-JUL-2016 09:44:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:operation timed out
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Operation timed out
+    nt secondary err code: 110
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 08-JUL-2016 09:44:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 113
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 08-JUL-2016 09:45:35
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 113
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 08-JUL-2016 09:46:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 113
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 08-JUL-2016 09:47:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 113
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 08-JUL-2016 09:48:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 08-JUL-2016 09:49:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 08-JUL-2016 09:50:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 08-JUL-2016 09:51:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 08-JUL-2016 09:52:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 08-JUL-2016 09:53:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:no listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: No listener
+    nt secondary err code: 111
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 08-JUL-2016 09:54:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 15:25:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 15:26:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 15:27:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 15:28:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 15:30:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 15:31:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 15:32:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 15:33:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 15:34:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 15:35:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 15:36:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 15:37:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 15:38:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 15:39:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 15:40:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 15:41:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 15:42:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 15:43:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 15:44:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 15:45:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 15:46:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 15:47:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 15:50:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 15:51:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 15:52:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 15:53:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 15:54:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 15:55:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 15:56:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 15:57:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 15:58:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 15:59:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 16:00:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 16:01:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 16:02:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 16:03:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 16:05:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 16:06:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 16:07:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 16:09:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 16:10:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 16:11:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 16:12:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 16:13:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 16:14:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 16:15:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 16:16:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 16:17:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 16:18:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 16:19:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.30.16.116)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=pmscdb)(CID=(PROGRAM=write_bpm_log)(HOST=hn10.30.16.113)(USER=root))))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 10.2.0.4.0 - Production
+	TCP/IP NT Protocol Adapter for Linux: Version 10.2.0.4.0 - Production
+  Time: 11-JUL-2016 16:20:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0

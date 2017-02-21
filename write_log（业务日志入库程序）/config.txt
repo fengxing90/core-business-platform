@@ -1,0 +1,8 @@
+config:/mnt/data_nfs/software/write_log
+logpath:/mnt/data_nfs/log
+user:process_user
+passwd:process_user123
+dbname:pmsc_hexin
+code:dictionary.pmsc_business_link
+logdetail:monitor.detail_log
+logcollect:monitor.collect_log

@@ -1,0 +1,4 @@
+make -f makefile clean
+make -f makelib clean
+make -f makelib
+make -f makefile

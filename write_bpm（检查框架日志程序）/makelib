@@ -1,0 +1,25 @@
+#user library component
+LIBSRCS=public.c ocilib.c
+LIBOBJS=public.o ocilib.o
+
+LIBS=common.a
+
+#compiler options
+CFLAGS = -I$(ORACLE_HOME)/rdbms/demo -I$(ORACLE_HOME)/rdbms/public -I$(ORACLE_HOME)/plsql/public -I$(ORACLE_HOME)/network/public -I$(ORACLE_HOME)/precomp/public
+
+#all
+all: $(LIBS)
+
+# rule for making user library
+common.a: $(LIBOBJS)
+	ar -ruv $@  $(LIBOBJS)
+
+# rule for making user library
+$(LIBOBJS): $(LIBSRCS)
+	/usr/bin/gcc $(CFLAGS) -c $(LIBSRCS)
+	
+	
+# clean
+clean:
+	rm -f $(LIBS)
+	rm -f $(LIBOBJS)
